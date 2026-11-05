@@ -23,4 +23,43 @@ python main.py <input_file> <output_file>
 ```bash
 python main.py input.png output.png
 ```
-### supported file extensions: bmp, dib, eps, gif, icns, ico, im, jpg/jpeg, msp, pcx, png, ppm, sgi, spider, tga, tiff, webp, xbm, cur, dcx, fits, fli, flc, fpx, gbr, gd, imt, mic, mpo, pcd, pixar, psd, qoi, sun, wal, xpm, avif, blp
+### supported file extensions: 
+ * .bmp
+ * .dib
+ * .eps
+ * .gif
+ * .icns
+ * .ico
+ * .im
+ * .jpg
+ * .jpeg
+ * .msp
+ * .pcx
+ * .png
+ * .ppm
+ * .sgi
+ * .spider
+ * .tga
+ * .tiff
+ * .webp
+ * .xbm
+ * .cur
+ * .dcx
+ * .fits
+ * .fli
+ * .flc
+ * .fpx
+ * .gbr
+ * .gd
+ * .imt
+ * .mic
+ * .mpo
+ * .pcd
+ * .pixar
+ * .psd
+ * .qoi
+ * .sun
+ * .wal
+ * .xpm
+ * .avif
+ * .blp
